@@ -3,7 +3,7 @@ export const widthMobileUI = 414;
 
 export const API_TIMEOUT = 120000;
 export const API_RAJAONGKIR = 'https://api.rajaongkir.com/starter/';
-export const API_KEY = 'b7b55d9d968dfe5437c72c5fe8c633ac';
+export const API_KEY = '546866530bc800be06e8a7725a93fd03';
 export const API_HEADER_RAJAONGKIR = {
   key: API_KEY,
 };

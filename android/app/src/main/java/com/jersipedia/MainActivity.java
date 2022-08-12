@@ -1,4 +1,4 @@
-package com.jersipedia;
+package com.sportfashion;
 
 import com.facebook.react.ReactActivity;
 
